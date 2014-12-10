@@ -8,6 +8,7 @@
 <script type="text/javascript" src="assets/js/ADS.js"></script>
 </head>
 <body>
+<h2>test</h2>
 	<h1 class="findme">test</h1>
 	<p class="findme">test</p>
 	<a href="#">link1</a>
